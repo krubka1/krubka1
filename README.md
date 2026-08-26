@@ -41,7 +41,7 @@
 
 ### Contribution Snake
 
-Snake animation requires [Platane/snk](https://github.com/Platane/snk) GitHub Action to be set up in your profile repo. Once configured, the snake SVG will be generated automatically.
+![github-snake](https://raw.githubusercontent.com/krubka1/krubka1/output/github-snake.svg)
 
 ---
 
