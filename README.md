@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm <b>krubka</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=game+engine+developer;C++/Rust+enthusiast;building+worlds+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=game+engine+developer;C++/Rust+enthusiast;building+worlds+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,11 +25,9 @@
 
 <div align="center">
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=krubka1&theme=bear&show_icons=true&hide_border=true&count_private=true)](https://github.com/krubka1)
-[![trophy](https://github-profile-trophy.vercel.app/?username=krubka1&theme=radical&no-frame=true&no-bg=true&column=4)](https://github.com/krubka1)
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=krubka1&theme=radical&hide_border=true)](https://github.com/krubka1)
-
-[![wakatime](https://wakatime.com/badge/user/krubka1)](https://wakatime.com/@krubka1)
+[![github stats](https://github-readme-stats.vercel.app/api?username=krubka1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/krubka1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=krubka1&theme=flat&no-frame=true&no-bg=true&column=4)](https://github.com/krubka1)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=krubka1&theme=tokyonight&hide_border=true)](https://github.com/krubka1)
 
 </div>
 
@@ -41,13 +39,22 @@
 
 ---
 
-### Currently Working On
+### Meanwhile, in the code dimension...
 
-| What | Status |
-|---|---|
-| Game engine shenanigans | In Progress |
-| Learning new things | Always |
-| Sleeping | Never |
+```
+while (alive) {
+    code();
+    coffee();
+    debug();
+    repeat();
+}
+```
+
+**Current Quest:** Making pixels do what I tell them
+
+**Side Quest:** Teaching compilers to speak Rust
+
+**Secret Boss:** Sleep (I'm winning)
 
 ---
 
