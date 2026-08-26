@@ -1,11 +1,13 @@
-<h1 align="center">krubka</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&color=00fff5&center=true&duration=2000&pause=99999&multiline=false&width=400&height=70&lines=krubka&letterSpacing=8" alt="krubka" />
+</p>
 
 <p align="center">
   <b>game engine developer | pixelPusher | debugging since forever</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=F7A41D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=currently+fighting+with+render+pipelines;will+trade+code+for+c%20coffee;my+bugs+have+bugs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=F7A41D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=currently+fighting+with+render+pipelines;will+trade+code+for+coffee;my+bugs+have+bugs" alt="Typing SVG" />
 </p>
 
 ---
