@@ -1,7 +1,11 @@
-<h1 align="center">Hey there, I'm <b>krubka</b></h1>
+<h1 align="center">krubka</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=game+engine+developer;C++/Rust+enthusiast;building+worlds+one+commit+at+a+time" alt="Typing SVG" />
+  <b>game engine developer | pixelPusher | debugging since forever</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=F7A41D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=currently+fighting+with+render+pipelines;will+trade+code+for+c%20coffee;my+bugs+have+bugs" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=krubka1&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://kgnio-profile-card.vercel.app/api/card?user=krubka1&theme=midnight" alt="GitHub Stats" />
 
 </div>
 
