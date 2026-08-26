@@ -25,9 +25,15 @@
 
 <div align="center">
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=krubka1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/krubka1)
-[![trophy](https://github-profile-trophy.vercel.app/?username=krubka1&theme=flat&no-frame=true&no-bg=true&column=4)](https://github.com/krubka1)
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=krubka1&theme=tokyonight&hide_border=true)](https://github.com/krubka1)
+<img src="https://ghstats.dev/api/card?username=krubka1&theme=tokyonight" alt="GitHub Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/krubka1?label=Followers&style=for-the-badge&logo=github&color=7289da" alt="Followers" />
+<img src="https://img.shields.io/github/stars/krubka1?label=Total%20Stars&style=for-the-badge&logo=github&color=f1c40f" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=krubka1&style=for-the-badge&label=Profile%20Views&color=9b59b6" alt="Profile Views" />
 
 </div>
 
@@ -35,7 +41,7 @@
 
 ### Contribution Snake
 
-![github-snake](https://raw.githubusercontent.com/krubka1/krubka1/refs/heads/output/github-contribution-grid-snake.svg)
+Snake animation requires [Platane/snk](https://github.com/Platane/snk) GitHub Action to be set up in your profile repo. Once configured, the snake SVG will be generated automatically.
 
 ---
 
@@ -59,7 +65,5 @@ while (alive) {
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krubka1&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
-  <br/><br/>
   <i>"The best engine is the one you build yourself."</i>
 </p>
