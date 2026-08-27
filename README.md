@@ -1,20 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&color=00fff5&center=true&duration=2000&pause=99999&multiline=false&width=400&height=70&lines=krubka&letterSpacing=8" alt="krubka" />
-</p>
+<h1 align="center">
+  krubka 
+</h1>
 
-<p align="center">
-  <b>game engine developer | pixelPusher | debugging since forever</b>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=F7A41D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=currently+fighting+with+render+pipelines;will+trade+code+for+coffee;my+bugs+have+bugs" alt="Typing SVG" />
-</p>
 
----
 
-### Languages & Tools
 
 <div align="center">
+
+
 
 [![cplusplus](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
@@ -25,13 +19,12 @@
 
 </div>
 
----
 
-### GitHub Shenanigans
+
 
 <div align="center">
 
-<img src="https://anya-github-stats.vercel.app/api/stats?username=krubka1&theme=dark&compact=true&hide=languages,pinned,streakinfo" alt="GitHub Stats" />
+<img src="https://ghstats.dev/api/card?username=krubka1&size=compact&show_ring=false&show_icons=false&hide_title=false" alt="GitHub Stats" />
 
 </div>
 
@@ -45,9 +38,7 @@
 
 </div>
 
----
 
-### Contribution Snake
 
 ![github-snake](https://raw.githubusercontent.com/krubka1/krubka1/output/github-snake.svg)
 
