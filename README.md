@@ -27,9 +27,9 @@
 <img src="https://ghstats.dev/api/card?username=krubka1&size=compact&show_ring=false&show_icons=false&hide_title=false" alt="GitHub Stats" />
 
 </div>
-
+<br>
 <div align="center">
-
+  
 <img src="https://img.shields.io/badge/Repos-18-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
 <img src="https://img.shields.io/badge/Stars-22-f1c40f?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
 <img src="https://img.shields.io/badge/Followers-3-7289da?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
@@ -40,5 +40,6 @@
 
 
 
-![github-snake](https://raw.githubusercontent.com/krubka1/krubka1/output/github-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krubka1/krubka1/output/github-snake.svg" />
+</p>
