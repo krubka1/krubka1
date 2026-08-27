@@ -51,27 +51,3 @@
 
 ![github-snake](https://raw.githubusercontent.com/krubka1/krubka1/output/github-snake.svg)
 
----
-
-### Meanwhile, in the code dimension...
-
-```
-while (alive) {
-    code();
-    coffee();
-    debug();
-    repeat();
-}
-```
-
-**Current Quest:** Making pixels do what I tell them
-
-**Side Quest:** Teaching compilers to speak Rust
-
-**Secret Boss:** Sleep (I'm winning)
-
----
-
-<p align="center">
-  <i>"The best engine is the one you build yourself."</i>
-</p>
