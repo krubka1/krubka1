@@ -1,26 +1,33 @@
 <h1 align="center">
-  krubka 
+  Krubka 
 </h1>
 
-
-
-
+###
 
 <div align="center">
 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" hspace="8"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust" hspace="8"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=lua" hspace="8"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript" hspace="8"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go" hspace="8"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash" hspace="8"></a>
 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" hspace="8"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" hspace="8"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arch" hspace="8"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=debian" hspace="8"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=godot" hspace="8"></a>
 
-[![cplusplus](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
-[![lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
-[![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=neovim" hspace="8"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" hspace="8"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender" hspace="8"></a>
+
 
 </div>
 
 
-
+###
 
 <div align="center">
 
@@ -28,6 +35,8 @@
 
 </div>
 <br>
+
+###
 <div align="center">
   
 <img src="https://img.shields.io/badge/Repos-18-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
@@ -38,6 +47,7 @@
 
 </div>
 
+###
 
 
 <p align="center">
