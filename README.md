@@ -31,15 +31,16 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Repos-18-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-<img src="https://img.shields.io/badge/Stars-22-f1c40f?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
-<img src="https://img.shields.io/badge/Followers-3-7289da?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-<img src="https://img.shields.io/badge/PRs%20Merged-1-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
+<img src="https://anya-github-stats.vercel.app/api/stats?username=krubka1&theme=dark&compact=true&hide=languages,pinned,streakinfo" alt="GitHub Stats" />
 
 </div>
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Repos-18-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+<img src="https://img.shields.io/badge/Stars-22-f1c40f?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
+<img src="https://img.shields.io/badge/Followers-3-7289da?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/badge/PRs%20Merged-1-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
 <img src="https://komarev.com/ghpvc/?username=krubka1&style=for-the-badge&label=Profile%20Views&color=9b59b6" alt="Profile Views" />
 
 </div>
